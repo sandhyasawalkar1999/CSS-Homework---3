@@ -1,0 +1,36 @@
+/* body{
+    text-align: center;
+} */
+p{
+    color: rgba(0, 0, 0, 0.6);
+}
+/* div{
+    border: 2px solid black ;
+    width: 30%;
+    display: block;
+    text-align: center;
+} */
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-bottom: 3px solid rgba(0, 0, 0, 0.7);
+}
+h2{
+    text-align: center;
+}
+img{
+     overflow-clip-margin: contect-box;
+      overflow: clip;
+}
+
+.para{
+    width: 30%;
+
+}
+div{
+    display: block;
+}
+   
+    
